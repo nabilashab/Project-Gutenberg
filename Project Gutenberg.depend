@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1400065792 source:c:\users\nabil ashab\desktop\project gutenberg\project gutenberg\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<conio.h>
+
+1400079523 source:c:\users\nabil ashab\desktop\project gutenberg\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<conio.h>
+
+1400076324 source:c:\users\nabil ashab\downloads\temp\project gutenberg\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<conio.h>
+
